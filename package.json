@@ -1,6 +1,6 @@
 {
-  "name": "deadbear-fe",
-  "private": true,
+  "name": "sol-usdc-swap",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
